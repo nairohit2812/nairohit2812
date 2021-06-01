@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nairohit2812
+- 👋 Hi, I’m Rohit Nair.
 - 👀 I’m interested in Django and mobile development.
 - 🌱 I’m currently learning REST framework and mobile development using flutter.
 - 💞️ I’m looking to collaborate on any django or flutter projects.
