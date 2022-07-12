@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Nair.
-- 👀 I’m interested in Blockchain development.
+- 👀 I’m interested in Web & Blockchain development.
 - 🌱 I’m currently learning Solidity and Ethereum.
 - 📫 Reach me : nair7rohit@gmail.com
 
